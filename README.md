@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="assets/ivy-waters-international-lockup.png" width="560" alt="Ivy Waters International">
+  <img src="assets/ivy-waters-international-standards-lockup.png" width="640" alt="The Ivy Waters International Standards">
 </p>
 
 # The Ivy Waters International Standards
 
 An open learning framework for ages 3–14, published by Ivy Waters
 International.
+
+**Open Standards for the future of learning.**
 
 The Standards describe observable capabilities without prescribing one
 curriculum, route, pace, or way to demonstrate learning. Families and
@@ -35,7 +37,7 @@ whether changes were made.
 
 The license does not grant trademark rights. The Ivy Waters International
 name, crest, and product marks remain protected. See
-[TRADEMARKS.md](TRADEMARKS.md).
+[BRAND-GUIDELINES.md](BRAND-GUIDELINES.md).
 
 ## Cite the Standards
 
@@ -66,6 +68,22 @@ your changes clear. A useful notice is:
 Do not use the Ivy Waters crest or branding to imply that an adaptation is an
 official Ivy Waters edition. See [NOTICE.md](NOTICE.md) for attribution and
 modification examples.
+
+## If your work references the Standards
+
+The reference badge below may be used unmodified to say, truthfully and
+without endorsement, that a work references or maps to one or more permanent
+Standards identifiers. Place the release version and a link to the public
+reader next to it.
+
+<p align="center">
+  <img src="assets/ivy-waters-open-standards-reference-badge.png" width="640" alt="References The Ivy Waters International Standards; independent use; no endorsement implied">
+</p>
+
+This is not a certification, compliance, accreditation, or compatibility
+seal. It does not make the work an official Ivy Waters publication and does
+not grant permission to use the crest. See
+[BRAND-GUIDELINES.md](BRAND-GUIDELINES.md) for the complete boundary.
 
 ## Data model
 
@@ -120,4 +138,4 @@ documented in [docs/MIRROR-PROTOCOL.md](docs/MIRROR-PROTOCOL.md).
 
 The publisher mark identifies this as the official Ivy Waters release. It is
 not licensed under CC BY 4.0 and may not be used to imply endorsement of an
-adaptation. See [TRADEMARKS.md](TRADEMARKS.md).
+adaptation. See [BRAND-GUIDELINES.md](BRAND-GUIDELINES.md).
