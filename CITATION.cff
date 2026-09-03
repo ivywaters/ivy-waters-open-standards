@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these Standards, please cite the framework or the permanent standard identifier you used."
+title: "The Ivy Waters International Standards"
+type: dataset
+authors:
+  - name: "Ivy Waters International"
+version: 2.2.0
+date-released: 2026-09-03
+license: CC-BY-4.0
+url: "https://ivywaters.com/standards"
+repository-code: "https://github.com/ivywaters/ivy-waters-open-standards"
+keywords:
+  - open education
+  - learning standards
+  - homeschool
+  - educational records
+  - Pre-K
+  - Grade 8
+preferred-citation:
+  type: generic
+  title: "The Ivy Waters International Standards"
+  authors:
+    - name: "Ivy Waters International"
+  year: 2026
+  version: 2.2.0
+  url: "https://ivywaters.com/standards"

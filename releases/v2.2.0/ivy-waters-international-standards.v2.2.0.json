@@ -1,0 +1,1574 @@
+{
+  "name": "The Ivy Waters International Standards",
+  "publisher": "Ivy Waters International",
+  "version": "2.2.0",
+  "versionDate": "2026-09-03",
+  "notice": "© 2026 Ivy Waters International. Licensed under CC BY 4.0.",
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "spdx": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "summary": "Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). You may share and adapt the Standards for any purpose, including commercially, with attribution, a license link, and an indication of changes.",
+    "permissions": [
+      "Copy and redistribute the Standards in any medium or format.",
+      "Remix, transform, and build upon the Standards for any purpose, including commercially.",
+      "Display and integrate the Standards inside planning, teaching, and record-keeping tools.",
+      "Map records, evidence, curricula, and lesson plans against the permanent identifiers."
+    ],
+    "conditions": [
+      "Give appropriate credit to Ivy Waters International.",
+      "Provide a link to the CC BY 4.0 license.",
+      "Indicate whether changes were made and retain a notice describing them.",
+      "Do not apply legal terms or technological measures that restrict the rights granted by CC BY 4.0."
+    ],
+    "trademarkNotice": "Ivy Waters names, crests, logos, and marks are not licensed and must not be used to imply endorsement.",
+    "attribution": "The Ivy Waters International Standards v2.2.0 by Ivy Waters International, licensed under CC BY 4.0. Source: https://ivywaters.com/standards",
+    "source": "https://ivywaters.com/standards",
+    "modificationNotice": "Adapted from The Ivy Waters International Standards v2.2.0; changes made: [describe changes]."
+  },
+  "counts": {
+    "grades": 10,
+    "guides": 52,
+    "standards": 138
+  },
+  "domains": [
+    {
+      "id": "math",
+      "displayName": "Math"
+    },
+    {
+      "id": "science",
+      "displayName": "Science"
+    },
+    {
+      "id": "english",
+      "displayName": "English"
+    },
+    {
+      "id": "language_acquisition",
+      "displayName": "Language Acquisition"
+    },
+    {
+      "id": "citizenship",
+      "displayName": "Good Citizenship/Humanities"
+    }
+  ],
+  "grades": [
+    {
+      "gradeLevel": "early_years",
+      "stageName": "Early Years",
+      "ageFrom": 3,
+      "ageTo": 5,
+      "ageLabel": "Ages 3–5",
+      "stageGroup": "early_years",
+      "guides": [
+        {
+          "domain": "math",
+          "subjectLabel": "Mathematics & Early Quantitative Reasoning",
+          "standards": [
+            {
+              "id": "EY-M-01",
+              "code": "EY-M-01",
+              "title": "Visual Subitizing & Rote Counting",
+              "description": "Your child can sing or speak the counting sequence from 1 to 10 (and beyond) and can instantly recognize small groups of items (up to 3 or 4) by sight without pointing and counting them one by one.",
+              "realWorldExample": "You put 3 toy cars on the rug. Your child looks at them and instantly says, \"Three cars!\" without needing to tap each one. They can count out loud while climbing steps or swinging.",
+              "capstone": false
+            },
+            {
+              "id": "EY-M-02",
+              "code": "EY-M-02",
+              "title": "Spatial Sorting & Attribute Classification",
+              "description": "Your child can look at a messy pile of items and group them together based on a single chosen rule, such as color, size, or shape.",
+              "realWorldExample": "While cleaning up or unpacking travel bags, your child automatically puts all the blue blocks in one pile and all the red blocks in another, or separates big sea shells from tiny sea shells.",
+              "capstone": false
+            },
+            {
+              "id": "EY-M-03",
+              "code": "EY-M-03",
+              "title": "Positional Language & Real-World Geometry",
+              "description": "Your child understands and uses words that describe where things are in space (under, on top of, inside, next to, behind) and can spot basic shapes in nature.",
+              "realWorldExample": "You ask your child to find their shoes, and they look under the bed, saying, \"They are under here!\" They point to a square window or a round slice of orange and recognize the shape pattern.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "science",
+          "subjectLabel": "Exploration & Early Science Inquiry",
+          "standards": [
+            {
+              "id": "EY-S-01",
+              "code": "EY-S-01",
+              "title": "Sensory Auditing & Material Textures",
+              "description": "Your child actively investigates the physical properties of their environment using sight, touch, and sound, identifying what is soft, hard, wet, dry, cold, or warm.",
+              "realWorldExample": "Hands deep in the mud, your child announces, \"Squishy!\" Then they find a stone, tap it, and say, \"This one's hard.\"",
+              "capstone": false
+            },
+            {
+              "id": "EY-S-02",
+              "code": "EY-S-02",
+              "title": "Cause-and-Effect Exploration",
+              "description": "Your child experiments with objects to see how they move, fall, balance, or react when forces change.",
+              "realWorldExample": "Playing in a pool or bathtub, your child drops a plastic boat and a heavy stone to see which one floats and which one sinks. They love pushing buttons, stacking blocks until they fall, and seeing how wheels roll.",
+              "capstone": false
+            },
+            {
+              "id": "EY-S-03",
+              "code": "EY-S-03",
+              "title": "Living World & Seasonal Awareness",
+              "description": "Your child notices that animals and plants are alive, treats them with gentle curiosity, and identifies major shifts in daylight, temperature, and clothing needs.",
+              "realWorldExample": "Your child points at a bird poking at the grass and asks, \"What's he doing?\" Later, they see the bright sun and reach for their hat before going outside.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "english",
+          "subjectLabel": "English & Pre-Literacy Foundations",
+          "standards": [
+            {
+              "id": "EY-E-01",
+              "code": "EY-E-01",
+              "title": "Expressive Vocabulary & Needs Communication",
+              "description": "Your child can speak in full, simple sentences (3 to 5 words) to express their thoughts, ask questions, tell a simple story, and make their immediate physical needs known to adults.",
+              "realWorldExample": "Your child brings you an empty cup and says, \"Want more water,\" or points out the window and calls, \"Look, a big dog!\"",
+              "capstone": false
+            },
+            {
+              "id": "EY-E-02",
+              "code": "EY-E-02",
+              "title": "Phonological Awareness & Word Play",
+              "description": "Your child is tuned into the sounds of spoken language. They can clap out syllables in their name, recognize familiar rhyming words in songs, and mimic animal sounds.",
+              "realWorldExample": "Singing a song like Twinkle, Twinkle, Little Star, your child notices that star and are sound the same. They love playing with words and making silly, rhyming nonsense sounds.",
+              "capstone": false
+            },
+            {
+              "id": "EY-E-03",
+              "code": "EY-E-03",
+              "title": "Print Orientation & Book Engagement",
+              "description": "Your child knows that books contain stories and pictures, holds a book right-side up, flips pages sequentially from front to back, and understands that the symbols on the page represent spoken words.",
+              "realWorldExample": "Your child climbs into your lap with their favorite picture book, hands it to you facing the right way, points to the pictures, and asks you to read what the characters are saying.",
+              "capstone": false
+            },
+            {
+              "id": "EY-E-04",
+              "code": "EY-E-04",
+              "title": "Emergent Writing & Fine Motor Control",
+              "description": "Your child is developing the physical hand strength and coordination required for writing. They can hold a thick crayon, make purposeful scribbles, draw loops or lines, and use tools like safety scissors or playdough.",
+              "realWorldExample": "Your child proudly hands you a piece of paper covered in loops and wavy lines and says, \"I wrote you a letter!\" They practice copying vertical or horizontal strokes in the sand or on paper.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "language_acquisition",
+          "subjectLabel": "Language Acquisition (Second Language Exposure)",
+          "standards": [
+            {
+              "id": "EY-L-01",
+              "code": "EY-L-01",
+              "title": "Phonetic Sound Mimicry",
+              "description": "Your child listens to words spoken in a second language and can playfully mimic the unique accent, vocal rhythm, and inflections without hesitation.",
+              "realWorldExample": "While listening to a song or cartoon in the target language, your child enthusiastically sings along with the chorus, capturing the correct native pronunciation of basic words.",
+              "capstone": false
+            },
+            {
+              "id": "EY-L-02",
+              "code": "EY-L-02",
+              "title": "Physical Response to Commands",
+              "description": "Your child understands basic, repetitive commands or greetings in the second language and can respond with the correct physical action, even if they aren't talking back in that language yet.",
+              "realWorldExample": "A local friend or instructor says \"Ven aquí\" or \"Asseyez-vous,\" and your child naturally walks over or sits down because they understand the verbal cue.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "citizenship",
+          "subjectLabel": "Personal, Social & Emotional Development (PSED)",
+          "standards": [
+            {
+              "id": "EY-C-01",
+              "code": "EY-C-01",
+              "title": "Emotional Regulation & Co-Regulation",
+              "description": "Your child is learning to identify their own feelings (happy, sad, angry, scared), can use words to describe their emotional state, and can accept comfort from a trusted adult when overwhelmed.",
+              "realWorldExample": "When a toy will not fit together, your child scrunches up and says, \"I'm mad!\" Then they hold it out to you for help instead of throwing it.",
+              "capstone": false
+            },
+            {
+              "id": "EY-C-02",
+              "code": "EY-C-02",
+              "title": "Sovereign Self-Care & Independence",
+              "description": "Your child takes pride in taking care of their own physical body and belongings, practicing tasks like feeding themselves, washing their hands, and helping put away their toys.",
+              "realWorldExample": "Before dinner, your child goes to the sink, pumps soap, washes their hands independently, and dries them. They try to put on their own socks, shoes, or jacket when getting ready to go outside.",
+              "capstone": false
+            },
+            {
+              "id": "EY-C-03",
+              "code": "EY-C-03",
+              "title": "Collaborative Play & Social Boundaries",
+              "description": "Your child transitions from playing next to other children (parallel play) to actively playing with them, practicing basic sharing, taking turns on a playground, and recognizing when a friend is sad.",
+              "realWorldExample": "At a park, your child offers a bucket to another child in the sandbox, coordinates a simple game of chase, or pauses to ask, \"Are you okay?\" if another toddler trips and falls.",
+              "capstone": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gradeLevel": "kindergarten",
+      "stageName": "Kindergarten",
+      "ageFrom": 5,
+      "ageTo": 6,
+      "ageLabel": "Ages 5–6",
+      "stageGroup": "primary",
+      "guides": [
+        {
+          "domain": "math",
+          "subjectLabel": "Mathematics & Quantitative Reasoning",
+          "standards": [
+            {
+              "id": "K.M-01",
+              "code": "M-01",
+              "title": "Cardinality & One-to-One Quantity Matching",
+              "description": "Your child can touch objects one by one while counting them out loud up to 20, knowing that the last number they say represents the entire total of the group.",
+              "realWorldExample": "At breakfast, you ask for 7 grapes. Your child touches each grape once while counting, then glances at the 3 left on the plate and says, \"Three more,\" without recounting them.",
+              "capstone": false
+            },
+            {
+              "id": "K.M-02",
+              "code": "M-02",
+              "title": "Quantitative Comparison & Relative Sizes",
+              "description": "Your child can look at two different collections of items and tell you which group has more, which has fewer, or if they are the same, completely by sight without needing to count them one by one.",
+              "realWorldExample": "They look at two plates of cookies, one with 2 cookies and one with 6, and immediately identify the larger group without pointing and counting. They can look at two uneven stacks of books and tell you which is taller.",
+              "capstone": false
+            },
+            {
+              "id": "K.M-03",
+              "code": "M-03",
+              "title": "Visual Pattern Recognition",
+              "description": "Your child can spot, copy, and predict simple repeating patterns using colors, sizes, or shapes in their daily surroundings.",
+              "realWorldExample": "Looking at sidewalk brick layouts, they notice the sequence: \"Red brick, grey brick, red brick, grey brick. The next one has to be red!\"",
+              "capstone": false
+            },
+            {
+              "id": "K.M-04",
+              "code": "M-04",
+              "title": "Spatial Geometry & Structural Properties",
+              "description": "Your child can recognize and name standard flat shapes (circles, triangles, squares) and basic physical positions (above, below, next to, inside) while exploring.",
+              "realWorldExample": "Your child looks at a round clock or a bicycle tire and notes, \"That's a circle shape!\" They understand and execute directional games like \"Hide behind the tree!\"",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "science",
+          "subjectLabel": "Science & Innovation",
+          "standards": [
+            {
+              "id": "K.S-01",
+              "code": "S-01",
+              "title": "Sensory Observation & Material Properties",
+              "description": "Your child can use their senses to safely describe objects and classify them by how they feel, look, or sound (e.g., rough, smooth, loud, soft, shiny).",
+              "realWorldExample": "Walking on a beach, your child collects shells and sorts them into two piles: \"These ones are rough and bumpy, but these ones are totally smooth.\"",
+              "capstone": false
+            },
+            {
+              "id": "K.S-02",
+              "code": "S-02",
+              "title": "Living Anatomy & Biological Tracking",
+              "description": "Your child can identify and name the basic visible parts of humans, animals, and plants and understands that living things grow and change.",
+              "realWorldExample": "While looking at a family pet, they can point out: \"The bird uses its beak to eat and its wings to fly.\" They notice plant roots drink water from the dirt.",
+              "capstone": false
+            },
+            {
+              "id": "K.S-03",
+              "code": "S-03",
+              "title": "Weather Tracking & Environmental Cycles",
+              "description": "Your child can notice daily weather patterns, recognize changes in temperature, and observe how those variations change what they wear or do.",
+              "realWorldExample": "Your child sees rain on the window, grabs their coat, and calls, \"We need the umbrella!\"",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "english",
+          "subjectLabel": "English & Expressive Literacy",
+          "standards": [
+            {
+              "id": "K.E-01",
+              "code": "E-01",
+              "title": "Phonemic Awareness & Alphabet Mechanics",
+              "description": "Your child knows that every letter has a name and a matching sound, can identify the starting sound of spoken words, and can match capital letters with lowercase letters.",
+              "realWorldExample": "You say the word \"Dog,\" and your child proudly tells you, \"Dog starts with the /d/ sound, like the letter D!\"",
+              "capstone": false
+            },
+            {
+              "id": "K.E-02",
+              "code": "E-02",
+              "title": "Early Decoding & Simple Word Blending",
+              "description": "Your child can slide individual letter sounds together to read short, three-letter words (consonant-vowel-consonant words like cat, bug, sit, hop).",
+              "realWorldExample": "Pointing to a word in a book, your child sounds out each letter aloud: c-a-t, then merges them fluidly to say: \"Cat!\"",
+              "capstone": false
+            },
+            {
+              "id": "K.E-03",
+              "code": "E-03",
+              "title": "Print Concepts & Book Navigation",
+              "description": "Your child understands how a book functions: they know words are read from left to right, top to bottom, and recognize that the printed text carries the story's actual meaning.",
+              "realWorldExample": "When handed a book upside down, they automatically flip it right-side up before pretending to read it.",
+              "capstone": false
+            },
+            {
+              "id": "K.E-04",
+              "code": "E-04",
+              "title": "Story Recall & Verbal Comprehension",
+              "description": "After listening to an engaging story or read-aloud book, your child can tell you what happened, name the main characters, and talk about their favorite part.",
+              "realWorldExample": "You finish reading The Three Little Pigs. Your child can summarize the plot: \"The big bad wolf blew down the houses, but he couldn't blow down the brick one!\"",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "language_acquisition",
+          "subjectLabel": "Language Acquisition (Second Language)",
+          "standards": [
+            {
+              "id": "K.L-01",
+              "code": "L-01",
+              "title": "Auditory Imitation & Vocal Play",
+              "description": "Your child can listen to native speakers or audio clips in a foreign language and playfully mirror the specific accents, cadences, and sounds they hear.",
+              "realWorldExample": "While traveling or listening to a language app, your child tries to copy the exact vocal tone and inflection of a local guide or speaker.",
+              "capstone": false
+            },
+            {
+              "id": "K.L-02",
+              "code": "L-02",
+              "title": "Foundation Vocabulary & Baseline Courtesy",
+              "description": "Your child can accurately use basic localized manners and high-frequency target words (greetings, expressing thanks, counting to 5) in context.",
+              "realWorldExample": "When a local vendor hands them an ice cream cone, your child looks them in the eye and confidently says, \"Gracias\" or \"Grazie.\"",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "citizenship",
+          "subjectLabel": "Global Citizenship & Humanities",
+          "standards": [
+            {
+              "id": "K.C-01",
+              "code": "C-01",
+              "title": "Personal Identity & Family Traditions",
+              "description": "Your child can talk about who they are, describe their family traditions, share stories about their background, and notice that different families have unique daily rhythms.",
+              "realWorldExample": "Your child explains a special holiday tradition to a new friend: \"Every year for my birthday, my family makes pancakes together.\"",
+              "capstone": false
+            },
+            {
+              "id": "K.C-02",
+              "code": "C-02",
+              "title": "Collaborative Play & Community Kindness",
+              "description": "Your child practices foundational interpersonal skills: taking turns, sharing physical objects, showing active empathy when someone is hurt, and helping take care of their immediate space.",
+              "realWorldExample": "At the playground, your child hops off the swing when another child is waiting and says, \"Your turn.\" Before leaving, they help gather the toys into the travel bag.",
+              "capstone": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gradeLevel": "grade_1",
+      "stageName": "Grade 1",
+      "ageFrom": 6,
+      "ageTo": 7,
+      "ageLabel": "Ages 6–7",
+      "stageGroup": "primary",
+      "guides": [
+        {
+          "domain": "math",
+          "subjectLabel": "Mathematics & Quantitative Reasoning",
+          "standards": [
+            {
+              "id": "G1.M-01",
+              "code": "M-01",
+              "title": "Number & Place Value (Tens and Ones)",
+              "description": "Your child understands that two-digit numbers are built out of bundles of tens and leftover ones. They can group objects to count them faster and can read, write, and order numbers up to 100.",
+              "realWorldExample": "Counting a jar of buttons, your child makes 4 groups of ten and says, \"That's 40, plus these 3 makes 43.\"",
+              "capstone": false
+            },
+            {
+              "id": "G1.M-02",
+              "code": "M-02",
+              "title": "Addition, Subtraction & Counting Patterns",
+              "description": "Your child can skip-count perfectly by 2s, 5s, and 10s. They can confidently add and subtract single-digit numbers (numbers 1 through 9) and understand how to add tens together (like 20 + 30).",
+              "realWorldExample": "Your child climbs the stairs counting by twos: \"2, 4, 6, 8, 10.\" Later, with 7 apple slices on the plate, they eat 3 and say, \"Four left.\"",
+              "capstone": false
+            },
+            {
+              "id": "G1.M-03",
+              "code": "M-03",
+              "title": "Spatial Awareness & 2D/3D Geometry",
+              "description": "Your child can name basic flat shapes (2D) and solid shapes (3D), and they can spot them hidden in everyday buildings, toys, and nature.",
+              "realWorldExample": "Your child stops in front of a rooftop and says, \"That's a pyramid, like in Egypt!\" They trace its triangle face with a finger, then spot a cylinder in a soup can at the shop.",
+              "capstone": false
+            },
+            {
+              "id": "G1.M-04",
+              "code": "M-04",
+              "title": "Measurement & Estimation",
+              "description": "Your child understands the passage of time (days, hours, weeks), can recognize local currency, and can accurately guess which objects are heavier, longer, or hold more liquid.",
+              "realWorldExample": "Your child watches the clock and calls, \"The big hand is at twelve, so it's three o'clock!\" At the beach, they lift two buckets before deciding which one is heavier.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "science",
+          "subjectLabel": "Science & Innovation",
+          "standards": [
+            {
+              "id": "G1.S-01",
+              "code": "S-01",
+              "title": "The Scientific Method",
+              "description": "Your child acts like a scientist. They do not just watch things happen. They make a guess (prediction) beforehand, test it, and observe what happens when they change one rule (variable).",
+              "realWorldExample": "Before sending a toy car down a ramp, your child says, \"I think this one will go faster because the ramp is steeper.\" Then they race both cars to check.",
+              "capstone": false
+            },
+            {
+              "id": "G1.S-02",
+              "code": "S-02",
+              "title": "Living Organisms & Ecosystems",
+              "description": "Your child understands that animals and plants are alive, and they can see how their bodies or leaves are uniquely designed to survive in their specific home environment.",
+              "realWorldExample": "Your child studies a cactus and works out loud: \"It's fat because it's full of water, right? For when it doesn't rain?\"",
+              "capstone": false
+            },
+            {
+              "id": "G1.S-03",
+              "code": "S-03",
+              "title": "Material Properties & States",
+              "description": "Your child can sort objects by what they are made of (wood, metal, plastic, liquid, gas) and understands how things melt, freeze, stretch, or break.",
+              "realWorldExample": "They watch an ice cube melt in their juice or water vapor rise from a boiling pot and explain that the water is changing forms because of the heat.",
+              "capstone": false
+            },
+            {
+              "id": "G1.S-04",
+              "code": "S-04",
+              "title": "Forces, Light & Shadows",
+              "description": "Your child understands that things move because of a push or a pull, and they know how shadows are made when light is blocked.",
+              "realWorldExample": "On a sunny walk, your child jumps between sunlight and shade, watches their shadow disappear, and says, \"It only shows when the sun is behind me.\"",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "english",
+          "subjectLabel": "English & Expressive Literacy",
+          "standards": [
+            {
+              "id": "G1.E-01",
+              "code": "E-01",
+              "title": "Reading Accuracy & High-Frequency Fluency",
+              "description": "Your child can decode new words using phonics rules, reads smoothly out loud, and instantly recognizes the core Top 100 Sight Words (like the, have, because, said) without pausing to sound them out.",
+              "realWorldExample": "While reading a storybook, they sound out a tough word like s-t-o-m-p naturally, then fluidly read the rest of the sentence because it contains common words like \"the\" and \"said\".",
+              "capstone": false
+            },
+            {
+              "id": "G1.E-02",
+              "code": "E-02",
+              "title": "Spelling Mechanics & Phonics Patterns",
+              "description": "Your child is building the physical and mental patterns needed to write words correctly. They understand how letters blend together to make sounds (like sh, ch, th, ing) and apply those patterns when writing.",
+              "realWorldExample": "Writing a postcard, they know that the word \"shop\" starts with sh and \"play\" ends with ay. They use basic capitalization for the start of names and sentences.",
+              "capstone": false
+            },
+            {
+              "id": "G1.E-03",
+              "code": "E-03",
+              "title": "Grammar & Narrative Structure",
+              "description": "Your child can tell a complete, structured story with a clear beginning, middle, and end, using correct punctuation (periods, question marks) when typing or writing it out.",
+              "realWorldExample": "Recounting their day, they say: \"First, we went to the castle. Then, we ate gelato. Finally, we saw the street performers!\"",
+              "capstone": false
+            },
+            {
+              "id": "G1.E-04",
+              "code": "E-04",
+              "title": "Comprehension & Audio Theme Extraction",
+              "description": "When your child listens to an audiobook or reads a story, they can explain the main lesson, describe the characters' feelings, and guess what might happen next.",
+              "realWorldExample": "After a story in the car, your child says, \"He kept cheating, so nobody trusted him at the end.\"",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "language_acquisition",
+          "subjectLabel": "Language Acquisition (Second Language)",
+          "standards": [
+            {
+              "id": "G1.L-01",
+              "code": "L-01",
+              "title": "Auditory Recognition & Local Greetings",
+              "description": "Your child can listen to the local language around them and pull out familiar everyday phrases, friendly greetings, and basic directions.",
+              "realWorldExample": "When entering a bakery in Spain, your child hears \"Hola, buenos días\" and immediately knows the shopkeeper is saying hello and wishing them a good morning.",
+              "capstone": false
+            },
+            {
+              "id": "G1.L-02",
+              "code": "L-02",
+              "title": "Environment Navigation & Visual Literacy",
+              "description": "Your child can use context clues, visual symbols, and single localized keywords to safely figure out their surroundings in a foreign country or neighborhood.",
+              "realWorldExample": "At a station, your child matches the train symbol on a sign to the one on the map and leads you toward the platform without needing the written words.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "citizenship",
+          "subjectLabel": "Global Citizenship & Humanities",
+          "standards": [
+            {
+              "id": "G1.C-01",
+              "code": "C-01",
+              "title": "Cultural Empathy & Historical Appreciation",
+              "description": "Your child shows active curiosity and deep respect for how people live differently around the world. They respect foreign customs, try local foods, and enjoy exploring regional histories.",
+              "realWorldExample": "Visiting a temple or cathedral, your child automatically lowers their voice and mimics the local sign of respect because they realize it is a sacred space for that community.",
+              "capstone": false
+            },
+            {
+              "id": "G1.C-02",
+              "code": "C-02",
+              "title": "Environmental Stewardship & Civic Observation",
+              "description": "Your child notices how human systems work (like recycling, transportation, or community rules) and takes small, intentional actions to keep their current environment clean and beautiful.",
+              "realWorldExample": "Walking along a beach, your child stops to pick up plastic trash and says, \"We need to put this in the bin so the sea turtles don't eat it.\"",
+              "capstone": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gradeLevel": "grade_2",
+      "stageName": "Grade 2",
+      "ageFrom": 7,
+      "ageTo": 8,
+      "ageLabel": "Ages 7–8",
+      "stageGroup": "primary",
+      "guides": [
+        {
+          "domain": "math",
+          "subjectLabel": "Mathematics & Quantitative Reasoning",
+          "standards": [
+            {
+              "id": "G2.M-01",
+              "code": "M-01",
+              "title": "Three-Digit Place Value & Number Composition",
+              "description": "Your child can compose, decompose, and round numbers up to 1,000, identifying exactly what the \"hundreds\" digit means in a real physical group.",
+              "realWorldExample": "Looking at a price tag of $358, your child explains: \"That is 3 hundreds, 5 tens, and 8 ones.\" They round a highway sign of 182 miles to the nearest ten (180).",
+              "capstone": false
+            },
+            {
+              "id": "G2.M-02",
+              "code": "M-02",
+              "title": "Multiplicative Thinking & Fractional Equal Sharing",
+              "description": "Your child understands multiplication as equal rows or groups, can recall basic 2, 5, and 10 times tables, and recognizes fractions (1/2, 1/4, 1/3) as equal parts of a whole object.",
+              "realWorldExample": "Baking a batch of muffins in a 3x4 tin, your child looks at the rows and says, \"3 rows of 4 means there are 12 muffins total!\" They recognize one slice of a four-piece pizza is exactly one-quarter (1/4).",
+              "capstone": false
+            },
+            {
+              "id": "G2.M-03",
+              "code": "M-03",
+              "title": "Measurement Units & Standard Conversions",
+              "description": "Your child can use real tools (rulers, scales, measuring cups) to measure length, weight, and capacity using standard metric or imperial units, and can read an analog clock to the nearest 5 minutes.",
+              "realWorldExample": "Helping you pack a suitcase, your child uses a luggage scale and reads that it weighs 15 kilograms. Looking at an analog clock, they tell you it is 2:25 PM.",
+              "capstone": false
+            },
+            {
+              "id": "G2.M-04",
+              "code": "M-04",
+              "title": "Data Extraction & Tally Chart Processing",
+              "description": "Your child can record information using simple tally marks and translate that real-world data into basic bar graphs or pictograms to answer questions.",
+              "realWorldExample": "Sitting at an outdoor cafe, your child tallies the colors of passing cars (5 red, 3 blue, 8 white) and can tell you which color is the most popular based on their marks.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "science",
+          "subjectLabel": "Science & Innovation",
+          "standards": [
+            {
+              "id": "G2.S-01",
+              "code": "S-01",
+              "title": "Biological Classification & Life Cycles",
+              "description": "Your child can sort living organisms into categories based on their features (e.g., mammals vs. reptiles) and can outline a complete life cycle.",
+              "realWorldExample": "At a farm, your child points from a chicken to a cow and works it out aloud: \"This one has feathers and this one has hair, so they can't be the same kind of animal.\"",
+              "capstone": false
+            },
+            {
+              "id": "G2.S-02",
+              "code": "S-02",
+              "title": "Structural Material Testing & Changing Shapes",
+              "description": "Your child can test how forces like bending, twisting, stretching, and squishing alter everyday materials, identifying which materials return to their original shape.",
+              "realWorldExample": "After stretching a rubber band and squashing a lump of clay, your child says, \"The rubber band jumps back, but the clay just stays squished.\"",
+              "capstone": false
+            },
+            {
+              "id": "G2.S-03",
+              "code": "S-03",
+              "title": "Planetary Systems & Earthly Water Cycles",
+              "description": "Your child understands how the water cycle functions in nature (evaporation, condensation, precipitation) and can identify how the Earth rotates to create day and night.",
+              "realWorldExample": "Your child returns to a puddle that has almost vanished and asks, \"Did the sun pull the water up? Is that how it gets back into clouds?\"",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "english",
+          "subjectLabel": "English & Expressive Literacy",
+          "standards": [
+            {
+              "id": "G2.E-01",
+              "code": "E-01",
+              "title": "Reading Independent Fluency & Structural Decoding",
+              "description": "Your child reads early chapter books smoothly out loud with expression, using context clues and prefix/suffix definitions to unpack unfamiliar multi-syllable words.",
+              "realWorldExample": "Your child reads a book independently and uses the prefix un- to figure out that unhappy means not happy, or re- to see that re-read means to read again.",
+              "capstone": false
+            },
+            {
+              "id": "G2.E-02",
+              "code": "E-02",
+              "title": "Structured Sentences & Paragraph Formatting",
+              "description": "Your child can write or type short paragraphs that maintain a singular topic, using correct capitalization, commas in lists, and apostrophes for simple contractions.",
+              "realWorldExample": "Writing a journal entry about a museum visit, your child accurately groups their thoughts together and uses mechanics like don't instead of do not.",
+              "capstone": false
+            },
+            {
+              "id": "G2.E-03",
+              "code": "E-03",
+              "title": "Informational Extraction & Character Evolution",
+              "description": "Your child can read a fiction or non-fiction text and identify the core plot points, the main problem, and how a character's feelings change throughout the story.",
+              "realWorldExample": "After finishing a story, your child can tell you: \"At the start, the boy was terrified of the ocean, but by the end, he was excited to go swimming because his grandfather helped him.\"",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "language_acquisition",
+          "subjectLabel": "Language Acquisition (Second Language)",
+          "standards": [
+            {
+              "id": "G2.L-01",
+              "code": "L-01",
+              "title": "Short Sentence Construction & Personal Descriptions",
+              "description": "Your child can use simple vocabulary strings to state their age, name, feelings, and basic preferences in the target language.",
+              "realWorldExample": "In a foreign setting, your child can confidently step forward and say: \"Me llamo Alex, tengo siete años\" (My name is Alex, I am seven years old).",
+              "capstone": false
+            },
+            {
+              "id": "G2.L-02",
+              "code": "L-02",
+              "title": "Transactional Requests & Immediate Needs",
+              "description": "Your child can ask for food, water, directions to a restroom, or help from an adult using polite local phrases.",
+              "realWorldExample": "At a foreign market, your child points to an apple and says: \"S'il vous plaît, je voudrais une pomme\" (Please, I would like an apple).",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "citizenship",
+          "subjectLabel": "Global Citizenship & Humanities",
+          "standards": [
+            {
+              "id": "G2.C-01",
+              "code": "C-01",
+              "title": "Geographic Literacy & Map Navigation",
+              "description": "Your child can read a simple city, park, or world map, identifying the four cardinal directions (North, South, East, West) and standard map symbols.",
+              "realWorldExample": "While exploring a park, your child holds the map and says: \"The monkeys are North of us, so we need to go up this path past the water fountain symbol.\"",
+              "capstone": false
+            },
+            {
+              "id": "G2.C-02",
+              "code": "C-02",
+              "title": "Economic Exchange & Community Infrastructure",
+              "description": "Your child understands that people work jobs to earn income, that items have variable costs, and can observe how a town or city meets the needs of its residents (parks, transit, sanitation).",
+              "realWorldExample": "On a crowded tram, your child notices how many people get on and asks, \"Where would all these people park if there wasn't a train?\"",
+              "capstone": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gradeLevel": "grade_3",
+      "stageName": "Grade 3",
+      "ageFrom": 8,
+      "ageTo": 9,
+      "ageLabel": "Ages 8–9",
+      "stageGroup": "primary",
+      "guides": [
+        {
+          "domain": "math",
+          "subjectLabel": "Mathematics & Quantitative Reasoning",
+          "standards": [
+            {
+              "id": "G3.M-01",
+              "code": "M-01",
+              "title": "Four-Digit Numerical Mastery & Decimals",
+              "description": "Your child can work with numbers up to 10,000, understands place value positioning, and can read and write decimal values to the tenths place (e.g., 4.2).",
+              "realWorldExample": "Your child reads 8,450 on the trip counter as \"eight thousand four hundred and fifty.\" In the kitchen, they see 1.5 kilograms on the scale and say, \"That's one and a half kilos.\"",
+              "capstone": false
+            },
+            {
+              "id": "G3.M-02",
+              "code": "M-02",
+              "title": "Multiplication Table Fluency & Basic Division",
+              "description": "Your child possesses rapid mental recall of multiplication facts up to 10 × 10 and understands the inverse relationship with division (e.g., if 3 × 4 = 12, then 12 ÷ 3 = 4).",
+              "realWorldExample": "You ask, \"What is 7 × 8?\" and they quickly reply, \"56.\" They divide 24 colored pencils equally among 4 travel packs (24 ÷ 4 = 6).",
+              "capstone": false
+            },
+            {
+              "id": "G3.M-03",
+              "code": "M-03",
+              "title": "Coordinate Grid Navigation",
+              "description": "Your child can find and plot locations on a basic 2D grid map using ordered coordinate pairs (x, y).",
+              "realWorldExample": "Playing the game Battleship, or reading a grid-based travel map, your child can accurately find the point located at coordinate (C, 4) or (3, 5).",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "science",
+          "subjectLabel": "Science & Innovation",
+          "standards": [
+            {
+              "id": "G3.S-01",
+              "code": "S-01",
+              "title": "Ecosystem Interdependence & Food Chains",
+              "description": "Your child can construct a functional food chain showing how energy flows from the sun to producers (plants) and consumers (animals), and can predict what happens if a habitat is disrupted.",
+              "realWorldExample": "Finding nibbled leaves on a forest walk, your child follows the chain aloud: \"A caterpillar ate this, and maybe a bird eats the caterpillar. What eats the bird?\"",
+              "capstone": false
+            },
+            {
+              "id": "G3.S-02",
+              "code": "S-02",
+              "title": "Human Anatomy (Skeletons & Muscles)",
+              "description": "Your child can explain how the human skeletal system protects vital organs and works in tandem with muscles to allow movement.",
+              "realWorldExample": "After a long climb, your child presses their ribs and says, \"These are like armour for your heart.\" Then they flex an arm to show the muscle doing the pulling.",
+              "capstone": false
+            },
+            {
+              "id": "G3.S-03",
+              "code": "S-03",
+              "title": "Electrical Pathways & Circuit Mechanics",
+              "description": "Your child can build or sketch a basic electrical circuit using a power source (battery), conductors (wires), and a load (lightbulb), and knows the difference between an open and closed circuit.",
+              "realWorldExample": "Fixing a flashlight, your child presses one loose wire into place and watches the bulb turn on: \"It only works when the whole path touches!\"",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "english",
+          "subjectLabel": "English & Expressive Literacy",
+          "standards": [
+            {
+              "id": "G3.E-01",
+              "code": "E-01",
+              "title": "Multi-Paragraph Composition & Speech Integration",
+              "description": "Your child can write or type an organized, multi-paragraph essay or creative narrative using transitions, distinct introductory and concluding thoughts, and proper dialogue punctuation.",
+              "realWorldExample": "Your child drafts a multi-paragraph story about an explorer and correctly encloses spoken text in quotation marks: \"Look over there!\" shouted the captain.",
+              "capstone": false
+            },
+            {
+              "id": "G3.E-02",
+              "code": "E-02",
+              "title": "Grammatical Parts of Speech Optimization",
+              "description": "Your child purposefully uses adverbs, adjectives, and correct verb tenses (past, present, future) to make their writing and verbal descriptions highly expressive.",
+              "realWorldExample": "Instead of saying \"The dog ran,\" your child writes, \"The massive hound ran swiftly across the muddy field.\"",
+              "capstone": false
+            },
+            {
+              "id": "G3.E-03",
+              "code": "E-03",
+              "title": "Analytical Reading & Subtext Analysis",
+              "description": "Your child can read a text and infer things that aren't explicitly written on the page by analyzing clues left by the author.",
+              "realWorldExample": "Reading a story, your child says, \"It doesn't say she's angry, but she slammed the door and stomped, so she's definitely angry.\"",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "language_acquisition",
+          "subjectLabel": "Language Acquisition (Second Language)",
+          "standards": [
+            {
+              "id": "G3.L-01",
+              "code": "L-01",
+              "title": "Basic Conversational Exchange",
+              "description": "Your child can ask and respond to simple questions from native speakers about their immediate interests or current environment.",
+              "realWorldExample": "Met by a peer abroad, your child can exchange comments on sport preferences: \"¿Te gusta el fútbol? Sí, me gusta mucho\" (Do you like soccer? Yes, I like it a lot).",
+              "capstone": false
+            },
+            {
+              "id": "G3.L-02",
+              "code": "L-02",
+              "title": "Environmental Vocabulary Consolidation",
+              "description": "Your child can identify and group common household objects, local animals, and daily weather patterns using clear targeted nouns and descriptors.",
+              "realWorldExample": "Looking out at a rainstorm abroad, your child notes: \"Hoy hace mal tiempo, está lloviendo\" (Today the weather is bad, it is raining).",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "citizenship",
+          "subjectLabel": "Global Citizenship & Humanities",
+          "standards": [
+            {
+              "id": "G3.C-01",
+              "code": "C-01",
+              "title": "Historical Contextualization & Archaeology Basics",
+              "description": "Your child understands that societies change over time, can distinguish between primary artifacts and secondary text accounts, and enjoys exploring ancient civilizations.",
+              "realWorldExample": "At a museum, your child studies a worn Roman coin and says, \"A real person used this back then. The scratches are part of the history too.\"",
+              "capstone": false
+            },
+            {
+              "id": "G3.C-02",
+              "code": "C-02",
+              "title": "Anthropological Awareness & Local Adaptations",
+              "description": "Your child observes how historic populations modified their physical environments (dams, terraced farming, architectural adjustments) to survive and build communities.",
+              "realWorldExample": "Traveling through mountainous regions, your child points to terraced hillside steps and notes: \"They carved steps into the mountainside so they could retain water and farm rice on steep slopes.\"",
+              "capstone": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gradeLevel": "grade_4",
+      "stageName": "Grade 4",
+      "ageFrom": 9,
+      "ageTo": 10,
+      "ageLabel": "Ages 9–10",
+      "stageGroup": "primary",
+      "guides": [
+        {
+          "domain": "math",
+          "subjectLabel": "Mathematics & Quantitative Reasoning",
+          "standards": [
+            {
+              "id": "G4.M-01",
+              "code": "M-01",
+              "title": "Multi-Digit Operational Accuracy & Decimals",
+              "description": "Your child can multiply three-digit numbers by two-digit numbers, read decimals to two places (e.g., 3.75), and comfortably round long numbers.",
+              "realWorldExample": "Planning a group outing, your child works out that 14 tickets at $25 cost $350. At the till, they read $4.75 as four dollars and seventy-five cents without rounding it to five.",
+              "capstone": false
+            },
+            {
+              "id": "G4.M-02",
+              "code": "M-02",
+              "title": "Fractional Computations & Equivalent Variations",
+              "description": "Your child can identify equivalent fractions (knowing that 2/4 is identical to 1/2) and can add or subtract fractions that have the same bottom number (denominator).",
+              "realWorldExample": "Doubling a recipe, your child pours 3/8 cup of oil and then 2/8 cup more, checks the markings, and says, \"That's 5/8 altogether.\"",
+              "capstone": false
+            },
+            {
+              "id": "G4.M-03",
+              "code": "M-03",
+              "title": "Angular Measurement & Geometric Principles",
+              "description": "Your child can identify acute, obtuse, and right angles, and can use a standard physical protractor to measure degrees (°) accurately on geometric plans.",
+              "realWorldExample": "Your child holds a protractor against a bridge drawing, measures a support at about 45°, and says, \"That one is acute because it's smaller than a right angle.\"",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "science",
+          "subjectLabel": "Science & Innovation",
+          "standards": [
+            {
+              "id": "G4.S-01",
+              "code": "S-01",
+              "title": "Botanical Architecture & Plant Functionality",
+              "description": "Your child can explain the exact scientific functions of a plant's roots, stem, leaves, and flowers, including early concepts of pollination and photosynthesis.",
+              "realWorldExample": "Watching a bee move between flowers, your child notices yellow dust on its legs and asks, \"Is it carrying pollen to the next flower so that one can make seeds?\"",
+              "capstone": false
+            },
+            {
+              "id": "G4.S-02",
+              "code": "S-02",
+              "title": "Optical Physics (Light Transmission & Reflection)",
+              "description": "Your child understands that light travels in straight lines, can bounce off reflective surfaces, and behaves differently when passing through transparent, translucent, and opaque materials.",
+              "realWorldExample": "Your child shines a torch through clear glass, baking paper, and a book. They sort them aloud: \"All the light, some light, no light. So this one is translucent.\"",
+              "capstone": false
+            },
+            {
+              "id": "G4.S-03",
+              "code": "S-03",
+              "title": "Chemical Innovations & Reversible vs. Irreversible Transitions",
+              "description": "Your child can distinguish between temporary physical changes (like freezing water) and permanent chemical alterations (like burning wood or baking an egg).",
+              "realWorldExample": "Poking a campfire, your child asks whether the ash could ever become wood again. They work out that it cannot and say, \"So it's irreversible.\"",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "english",
+          "subjectLabel": "English & Expressive Literacy",
+          "standards": [
+            {
+              "id": "G4.E-01",
+              "code": "E-01",
+              "title": "Persuasive Text Formatting & Rhetoric",
+              "description": "Your child can plan, draft, and finalize an essay or pitch explicitly designed to persuade a reader, backing up claims with logical reasons.",
+              "realWorldExample": "Your child writes a short case for visiting the science museum first, using its opening time, ticket price, and the exhibit everyone wants to see as three reasons.",
+              "capstone": false
+            },
+            {
+              "id": "G4.E-02",
+              "code": "E-02",
+              "title": "Figurative Language Identification",
+              "description": "Your child spots and integrates similes, metaphors, and personification within text to extract deeper narrative art.",
+              "realWorldExample": "While reading, your child catches the phrase \"the wind whispered through the trees\" and explains: \"The author is using personification to make the wind seem alive.\"",
+              "capstone": false
+            },
+            {
+              "id": "G4.E-03",
+              "code": "E-03",
+              "title": "Evidence Extraction & Textual Substantiation",
+              "description": "When asked about a book or article, your child does not just state an opinion. They go back into the text to locate specific sentences or quotes to support their claims.",
+              "realWorldExample": "You ask why a character failed a mission, and your child flips the page back and reads: \"Right here on page 42, it says he forgot to check the map before heading north. That's exactly why he got lost.\"",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "language_acquisition",
+          "subjectLabel": "Language Acquisition (Second Language)",
+          "standards": [
+            {
+              "id": "G4.L-01",
+              "code": "L-01",
+              "title": "Creative Writing & Short Descriptive Paragraphs",
+              "description": "Your child can draft 3-4 cohesive sentences in the target language to describe a physical location, a personal memory, or an intended event.",
+              "realWorldExample": "Your child drafts a brief digital travel message or postcard: \"Hier j'ai visité un château. C'était très grand et beau\" (Yesterday I visited a castle. It was very big and beautiful).",
+              "capstone": false
+            },
+            {
+              "id": "G4.L-02",
+              "code": "L-02",
+              "title": "Contextual Listening Comprehension",
+              "description": "Your child can listen to an uninterrupted broadcast, public announcement, or local story spoken at standard conversational pace and isolate the core informational points.",
+              "realWorldExample": "Listening to a train platform announcement abroad, your child translates: \"They just said our train is delayed by ten minutes and arriving on platform three.\"",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "citizenship",
+          "subjectLabel": "Global Citizenship & Humanities",
+          "standards": [
+            {
+              "id": "G4.C-01",
+              "code": "C-01",
+              "title": "Micro-Economics & Global Supply Chains",
+              "description": "Your child understands that objects are rarely built entirely in one place, discovering how global raw materials, shipping routes, and international labor networks link modern economies.",
+              "realWorldExample": "Reading the tiny print on their shoe, your child finds three different countries named and asks why a single shoe needed all of them.",
+              "capstone": false
+            },
+            {
+              "id": "G4.C-02",
+              "code": "C-02",
+              "title": "Comparative Civil Governance & Laws",
+              "description": "Your child notices that different countries utilize distinct models of governance (monarchies, democracies, republics) and can compare how different modern communities establish public legal systems.",
+              "realWorldExample": "After seeing both a monarch and a prime minister in the news, your child asks which one makes the rules and compares the answer with how leaders are chosen at home.",
+              "capstone": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gradeLevel": "grade_5",
+      "stageName": "Grade 5",
+      "ageFrom": 10,
+      "ageTo": 11,
+      "ageLabel": "Ages 10–11",
+      "stageGroup": "primary",
+      "guides": [
+        {
+          "domain": "math",
+          "subjectLabel": "Mathematics & Quantitative Reasoning",
+          "standards": [
+            {
+              "id": "G5.M-01",
+              "code": "M-01",
+              "title": "Percentage Computations & Rational Conversions",
+              "description": "Your child can move fluidly between fractions, decimals, and percentages, and can calculate percentages out of whole amounts during transactions.",
+              "realWorldExample": "You spot a \"30% off\" sign in a shop, and your child works out the actual sale price in their head before you reach the till. They might also check whether the \"¾ full\" fuel gauge really matches 75%.",
+              "capstone": false
+            },
+            {
+              "id": "G5.M-02",
+              "code": "M-02",
+              "title": "Non-Like Denominator Fractional Computations",
+              "description": "Your child can add and subtract fractions that possess different bottom numbers by identifying a common denominator first (e.g., computing 1/2 + 1/3).",
+              "realWorldExample": "Combining leftover ingredients, your child figures out that half a bag of rice plus a third of a bag makes five-sixths of a bag: enough for tonight's dinner, but not tomorrow's too.",
+              "capstone": false
+            },
+            {
+              "id": "G5.M-03",
+              "code": "M-03",
+              "title": "Dimensional Spatial Measurement (Area, Perimeter, Volume)",
+              "description": "Your child can accurately measure and apply geometric formulas to calculate the perimeter and surface area of regular polygons, alongside basic 3D volume parameters (V = l × w × h).",
+              "realWorldExample": "Packing for a move or a flight, your child measures a suitcase and calculates whether the box of books will fit. Later, they work out how many litres the guesthouse aquarium holds.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "science",
+          "subjectLabel": "Science & Innovation",
+          "standards": [
+            {
+              "id": "G5.S-01",
+              "code": "S-01",
+              "title": "Human Cardio-Respiratory Systems",
+              "description": "Your child can explain how the human heart pumps oxygenated blood through blood vessels and how the lungs exchange oxygen and carbon dioxide.",
+              "realWorldExample": "After a steep hike, your child takes their own pulse, notices their breathing has doubled, and explains why: their muscles needed more oxygen, so the heart and lungs sped up to deliver it.",
+              "capstone": false
+            },
+            {
+              "id": "G5.S-02",
+              "code": "S-02",
+              "title": "Forces in Equilibrium (Gravity, Friction, Magnetism)",
+              "description": "Your child can use arrows to diagram balanced and unbalanced physical forces acting on an object, calculating net motion outcomes.",
+              "realWorldExample": "Watching a loaded scooter or a tug-of-war on the beach, your child sketches the forces with arrows: \"Gravity pulls the bags down, friction holds the wheels, and the bigger push wins.\"",
+              "capstone": false
+            },
+            {
+              "id": "G5.S-03",
+              "code": "S-03",
+              "title": "Material Separation Mechanics & Solutions",
+              "description": "Your child knows how to safely separate mixtures using scientific techniques like evaporation, distillation, filtration, and sieving, identifying soluble vs. insoluble compounds.",
+              "realWorldExample": "In the kitchen, your child points out that straining pasta is filtration, that salt disappears in water but sand doesn't, and that the white crust left when seawater dries on rocks is evaporation doing the separating.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "english",
+          "subjectLabel": "English & Expressive Literacy",
+          "standards": [
+            {
+              "id": "G5.E-01",
+              "code": "E-01",
+              "title": "Research Report Formulation & Citation Frameworks",
+              "description": "Your child can independently research a complex theme, synthesize data from multiple separate books or websites, organize it into a structured report, and compile a clear list of sources (bibliography).",
+              "realWorldExample": "Curious about sea turtles after a beach encounter, your child reads two books and three websites, writes a structured report on why the nesting numbers are falling, and lists every source at the end.",
+              "capstone": false
+            },
+            {
+              "id": "G5.E-02",
+              "code": "E-02",
+              "title": "Critical Literacy & Intent/Bias Detection",
+              "description": "Your child reads news articles, advertisements, or opinion editorials and identifies whether the author is presenting objective facts or trying to manipulate opinions via biased vocabulary.",
+              "realWorldExample": "Reading hotel reviews or a news article together, your child points out loaded words: \"They say 'cramped,' but the other review says 'cozy' for the same room. One of them is trying to make us feel something.\"",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "language_acquisition",
+          "subjectLabel": "Language Acquisition (Second Language)",
+          "standards": [
+            {
+              "id": "G5.L-01",
+              "code": "L-01",
+              "title": "Multi-Tense Linguistic Versatility",
+              "description": "Your child can naturally alternate between past actions, current situations, and future intentions when speaking or writing in the target language.",
+              "realWorldExample": "Chatting with a local friend, your child naturally says the equivalent of \"Yesterday we visited the waterfall, today we're resting, and tomorrow we'll take the bus north,\" using three tenses in one breath.",
+              "capstone": false
+            },
+            {
+              "id": "G5.L-02",
+              "code": "L-02",
+              "title": "Self-Sovereign Real-World Transactional Competence",
+              "description": "Your child can handle a complex transaction independently, like purchasing specific transit passes or ordering custom meals with ingredient modifications.",
+              "realWorldExample": "Your child walks up to the counter alone and orders lunch in the target language: no cheese, extra rice, one to take away. They count their change without switching to English.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "citizenship",
+          "subjectLabel": "Global Citizenship & Humanities",
+          "standards": [
+            {
+              "id": "G5.C-01",
+              "code": "C-01",
+              "title": "Governance Systems & Civic Structures",
+              "description": "Your child understands that communities organize themselves through rules, laws, and leadership. They can compare how decisions get made in different places (a village council, a city government, a national election), including the basic rights and responsibilities people hold.",
+              "realWorldExample": "After seeing an election poster or a town meeting in a place you're staying, your child asks how leaders get chosen there and compares it with home: \"So here the mayor is appointed, but in our country we vote?\"",
+              "capstone": false
+            },
+            {
+              "id": "G5.C-02",
+              "code": "C-02",
+              "title": "Global Trade, Supply Chains & Interdependence",
+              "description": "Your child can trace how an everyday product travels from raw material to shelf, including who grows it, who transports it, and who sells it. They can explain how countries depend on one another for things they cannot produce themselves.",
+              "realWorldExample": "Holding a chocolate bar, your child works backwards: the cacao grew in Ghana, was shipped to a factory in Belgium, and ended up in a market in Mexico. They can explain why the price includes every stop along the way.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "citizenship",
+          "subjectLabel": "The Grade 5 Capstone: The Exhibition & Entrepreneurial Pitch",
+          "standards": [
+            {
+              "id": "CP-05-01",
+              "code": "CP-05-01",
+              "title": "Market Validation & Product Conception",
+              "description": "Your child can identify a gap or problem in their current community or global travels, survey potential users, and design a product prototype or service concept to solve it.",
+              "realWorldExample": "Your child notices travelling families constantly losing water bottles, interviews five other kids at the co-work hub, and sketches a clip-on bottle sleeve. Then they ask the same kids whether they would actually buy one.",
+              "capstone": true
+            },
+            {
+              "id": "CP-05-02",
+              "code": "CP-05-02",
+              "title": "Financial Modeling & The Micro-Business Canvas",
+              "description": "Your child maps out the core financials of their idea: listing fixed startup costs, calculating the exact cost of production, defining the retail price, and declaring the business's profit margin.",
+              "realWorldExample": "For their bracelet stall, your child lists the beads and cord costs ($14), works out each bracelet costs $1.40 to make, prices them at $4, and proudly announces a $2.60 profit per sale.",
+              "capstone": true
+            },
+            {
+              "id": "CP-05-03",
+              "code": "CP-05-03",
+              "title": "The Capstone Pitch Execution",
+              "description": "Your child compiles a professional, visually compelling slide deck or physical presentation board and delivers a formal 5-to-10 minute verbal pitch explaining their business, its value proposition, and its financial health.",
+              "realWorldExample": "Your child stands in front of the camera (or the family dinner table first) with their slide deck and delivers the full pitch: the problem, the product, and the numbers. Then they field questions without a script.",
+              "capstone": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gradeLevel": "grade_6",
+      "stageName": "Grade 6",
+      "ageFrom": 11,
+      "ageTo": 12,
+      "ageLabel": "Ages 11–12",
+      "stageGroup": "middle",
+      "guides": [
+        {
+          "domain": "math",
+          "subjectLabel": "Mathematics & Algebraic Reasoning",
+          "standards": [
+            {
+              "id": "G6.M-01",
+              "code": "M-01",
+              "title": "Integers, Rational Numbers & Coordinate Planes",
+              "description": "Your child can confidently add, subtract, multiply, and divide positive and negative integers, plotting coordinates across all four quadrants (positive and negative) of a grid system.",
+              "realWorldExample": "Your child handles negative numbers in the wild: \"It was -3° this morning and it's 8° now, so it warmed up 11 degrees.\" They can also plot the family's route on a map grid, including the quadrants west and south of the origin.",
+              "capstone": false
+            },
+            {
+              "id": "G6.M-02",
+              "code": "M-02",
+              "title": "Introduction to Algebra & Variable Equations",
+              "description": "Your child understands that a letter (like x or y) can represent an unknown number, and they can perform inverse operations to solve for that variable.",
+              "realWorldExample": "The scooter rental costs a flat $5 plus $2 per hour, and you paid $13. Your child writes it as 5 + 2x = 13 and works out you rode for exactly 4 hours.",
+              "capstone": false
+            },
+            {
+              "id": "G6.M-03",
+              "code": "M-03",
+              "title": "Proportional Reasoning, Ratios & Scale",
+              "description": "Your child can interpret and simplify ratios (like 2:1) and apply scale factors to real travel maps or technical architectural blueprints.",
+              "realWorldExample": "Reading the trail map's 1:25,000 scale, your child measures 6 cm and announces the waterfall is a 1.5 km walk. At the potluck, they scale a recipe for 4 up to feed 10.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "science",
+          "subjectLabel": "Integrated Sciences (Biology, Chemistry, Physics)",
+          "standards": [
+            {
+              "id": "G6.S-01",
+              "code": "S-01",
+              "title": "Cellular Biology & Microscopic Structures",
+              "description": "Your child can identify the distinct parts of plant and animal cells (nucleus, cell wall, cell membrane, cytoplasm, chloroplasts) and explain their structural differences.",
+              "realWorldExample": "Looking at pond water or an onion skin under a field microscope, your child spots the rigid cell walls and says, \"That's how you know it's a plant. Animal cells would just have the membrane.\"",
+              "capstone": false
+            },
+            {
+              "id": "G6.S-02",
+              "code": "S-02",
+              "title": "Matter at the Atomic Level & Periodic Table Basics",
+              "description": "Your child understands that all matter is constructed from tiny atoms, can define the difference between elements, compounds, and mixtures, and can read basic periodic table symbols.",
+              "realWorldExample": "Reading a mineral-water label or sunscreen bottle, your child decodes the symbols: \"Na is sodium, Zn is zinc.\" They explain that salt is a compound of two elements while trail mix is just a mixture.",
+              "capstone": false
+            },
+            {
+              "id": "G6.S-03",
+              "code": "S-03",
+              "title": "Kinematics (Calculating Speed & Velocity)",
+              "description": "Your child understands the mathematical formula for speed (Speed = Distance ÷ Time) and can calculate the velocity of moving objects using standard metric variables.",
+              "realWorldExample": "On a long bus ride, your child clocks that you covered 180 km in 3 hours and calculates the average speed at 60 km/h. Then they time their own 100 m sprint on the beach and work out their speed.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "english",
+          "subjectLabel": "Language & Literature",
+          "standards": [
+            {
+              "id": "G6.E-01",
+              "code": "E-01",
+              "title": "Thesis Formulation & Argumentative Structure",
+              "description": "Your child can write a cohesive, structural 5-paragraph essay centered around a single, debatable thesis statement, supporting it with multiple structured body paragraphs.",
+              "realWorldExample": "Your child writes a five-paragraph essay arguing that the best city your family visited this year was Oaxaca, with a clear thesis up front and a separate supporting reason anchoring each body paragraph.",
+              "capstone": false
+            },
+            {
+              "id": "G6.E-02",
+              "code": "E-02",
+              "title": "Textual Analysis & Structural Literary Critiques",
+              "description": "Your child reads classic or contemporary literature and writes an analysis detailing how an author utilizes tone, setting, and imagery to highlight core themes.",
+              "realWorldExample": "After finishing a novel, your child writes about how the author's storm-battered island setting mirrors the main character's loneliness, pointing to specific passages as evidence.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "language_acquisition",
+          "subjectLabel": "Language Acquisition (Second Language)",
+          "standards": [
+            {
+              "id": "G6.L-01",
+              "code": "L-01",
+              "title": "Expanded Text Architecture & Complex Syntax",
+              "description": "Your child can construct full, multi-paragraph written journals or business emails in the target language using proper transitional phrases and introductory markers.",
+              "realWorldExample": "Your child writes a full journal entry or a proper email to their language tutor in the target language, complete with connectors like \"however,\" \"afterwards,\" and \"in my opinion.\"",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "citizenship",
+          "subjectLabel": "Societies & Systems (Humanities)",
+          "standards": [
+            {
+              "id": "G6.C-01",
+              "code": "C-01",
+              "title": "Historiography & Source Verification",
+              "description": "Your child can evaluate historical data using basic source analysis, identifying if an account is potentially biased based on who wrote it and when.",
+              "realWorldExample": "At a historical site, your child compares the plaque's triumphant version of events with what your guidebook says and asks the sharpest question in history class: \"Who wrote this one, the winners?\"",
+              "capstone": false
+            },
+            {
+              "id": "G6.C-02",
+              "code": "C-02",
+              "title": "Physical Geography & Tectonic Geology",
+              "description": "Your child can explain how plate tectonics, continental drift, magma currents, and faults structurally cause volcanic activity, mountain building, and seismic earthquakes.",
+              "realWorldExample": "Standing at a volcano viewpoint or feeling a small tremor in the night, your child explains what is happening underneath: two plates grinding past each other and magma finding the weak point. Then they explain why the whole island chain lines up in a row.",
+              "capstone": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gradeLevel": "grade_7",
+      "stageName": "Grade 7",
+      "ageFrom": 12,
+      "ageTo": 13,
+      "ageLabel": "Ages 12–13",
+      "stageGroup": "middle",
+      "guides": [
+        {
+          "domain": "math",
+          "subjectLabel": "Mathematics & Algebraic Reasoning",
+          "standards": [
+            {
+              "id": "G7.M-01",
+              "code": "M-01",
+              "title": "Linear Functions & Slope Intercept Calculations",
+              "description": "Your child can graph a linear equation on an (x, y) grid, calculate the slope of a line, and interpret the algebraic equation y = mx + b.",
+              "realWorldExample": "Your child decodes the taxi meter as a living equation: a $3 flag-fall plus $1.50 per kilometre is y = 1.5x + 3. They predict the fare home before the driver does.",
+              "capstone": false
+            },
+            {
+              "id": "G7.M-02",
+              "code": "M-02",
+              "title": "Multi-Step Equation Inversion & Distribution",
+              "description": "Your child can solve complex algebraic equations requiring multiple operational steps, including distributing values across parentheses (e.g., 2(x + 4) = 16).",
+              "realWorldExample": "Comparing two SIM-card plans, your child sets up the equation for when they cost the same. They distribute across the parentheses to solve it and tell you which one wins for a one-month stay.",
+              "capstone": false
+            },
+            {
+              "id": "G7.M-03",
+              "code": "M-03",
+              "title": "Theoretical vs. Experimental Probability",
+              "description": "Your child can calculate the mathematical likelihood of an event occurring and compare it to real experimental sample tracking metrics.",
+              "realWorldExample": "Your child calculates that rolling a six should happen 1-in-6 times, then actually rolls the die 60 times on a rainy afternoon, tallies 13 sixes, and puzzles over why the experiment beat the theory.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "science",
+          "subjectLabel": "Integrated Sciences (Biology, Chemistry, Physics)",
+          "standards": [
+            {
+              "id": "G7.S-01",
+              "code": "S-01",
+              "title": "Nutritional Physiology & Enzyme Digestion",
+              "description": "Your child can chart how food moves through the human digestive tract, tracking mechanical versus chemical breakdown of macronutrients (carbohydrates, lipids, proteins).",
+              "realWorldExample": "Chewing a plain cracker until it turns sweet, your child explains that the enzyme in saliva is already breaking the starch into sugar. They can trace tonight's dinner through every stage of the digestive tract.",
+              "capstone": false
+            },
+            {
+              "id": "G7.S-02",
+              "code": "S-02",
+              "title": "Chemical Reactions & Indicators",
+              "description": "Your child can identify signs of a chemical reaction (temperature change, gas production, color shifts) and read pH levels using indicators.",
+              "realWorldExample": "Your child makes red-cabbage indicator in the guesthouse kitchen and tests everything in reach. Lime juice turns it pink (acid), baking soda turns it blue-green (base), and the fizz when they meet is a real chemical reaction.",
+              "capstone": false
+            },
+            {
+              "id": "G7.S-03",
+              "code": "S-03",
+              "title": "Wave Mechanics (Frequency & Amplitude)",
+              "description": "Your child can chart a wave profile, mathematically defining its wavelength, frequency, and amplitude, and explaining how sound pitch changes.",
+              "realWorldExample": "Watching sets roll in at the beach, your child times the swell and estimates its frequency. Later, they tighten a guitar string and explain that shorter, faster waves are exactly why the pitch climbs.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "english",
+          "subjectLabel": "Language & Literature",
+          "standards": [
+            {
+              "id": "G7.E-01",
+              "code": "E-01",
+              "title": "Advanced Textual Synthesis & Quote Integration",
+              "description": "Your child can weave direct quotations seamlessly into their analytical essays using signal phrases and formatting, rather than simply dropping standalone sentences.",
+              "realWorldExample": "In their essay on a novel, your child writes: \"As the narrator admits, 'I was never brave, only stubborn,' a distinction that drives every choice she makes.\" The quote is woven into the analysis rather than left alone.",
+              "capstone": false
+            },
+            {
+              "id": "G7.E-02",
+              "code": "E-02",
+              "title": "Societal/Historical Literary Analysis",
+              "description": "Your child evaluates how the socio-political climate of the era a book was written in directly influenced the characters, plotting, and perspective of the text.",
+              "realWorldExample": "Reading a book written in the 1940s, your child connects its anxious, rationed world to the war it was written during and argues the villain would be written completely differently today.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "language_acquisition",
+          "subjectLabel": "Language Acquisition (Second Language)",
+          "standards": [
+            {
+              "id": "G7.L-01",
+              "code": "L-01",
+              "title": "Spontaneous Fluid Dialogue",
+              "description": "Your child can hold a continuous, unscripted five-minute conversation with a native speaker without relying on translation apps.",
+              "realWorldExample": "At the market, your child chats with the fruit vendor for five unbroken minutes, haggling, joking about the rain, and asking how to pick a ripe mango. They never once reach for your phone.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "citizenship",
+          "subjectLabel": "Societies & Systems (Humanities)",
+          "standards": [
+            {
+              "id": "G7.C-01",
+              "code": "C-01",
+              "title": "Feudalism, Geopolitical Empires & Expansion",
+              "description": "Your child can map and analyze how feudal social pyramids functioned and track how medieval and early modern maritime trade routes expanded global power dynamics.",
+              "realWorldExample": "Exploring a castle or old trading port, your child maps the pyramid on the spot: \"The lord owned this, the peasants worked that.\" Then they trace on the harbour map how spice ships turned this small town into a power.",
+              "capstone": false
+            },
+            {
+              "id": "G7.C-02",
+              "code": "C-02",
+              "title": "Meteorological Systems & Atmospheric Dynamics",
+              "description": "Your child can interpret isobar air pressure readouts, explain how ocean currents move global temperatures, and detail how weather fronts are formed.",
+              "realWorldExample": "Planning tomorrow's hike, your child reads the pressure map like a pro: \"Isobars are tight, so it'll be windy, and that cold front means rain by afternoon.\" They explain why the coast stays milder than the hills.",
+              "capstone": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gradeLevel": "grade_8",
+      "stageName": "Grade 8",
+      "ageFrom": 13,
+      "ageTo": 14,
+      "ageLabel": "Ages 13–14",
+      "stageGroup": "middle",
+      "guides": [
+        {
+          "domain": "math",
+          "subjectLabel": "Mathematics & Algebraic Reasoning",
+          "standards": [
+            {
+              "id": "G8.M-01",
+              "code": "M-01",
+              "title": "Systems of Linear Equations & Matrices",
+              "description": "Your child can find the single intersection point (x, y) that satisfies two distinct linear equations at the same time using substitution or elimination methods.",
+              "realWorldExample": "Two market receipts, one mystery: 3 mangoes and 2 papayas cost $9, while 1 mango and 2 papayas cost $5. With no prices displayed, your child sets up both equations, eliminates, and announces that mangoes are $2 each.",
+              "capstone": false
+            },
+            {
+              "id": "G8.M-02",
+              "code": "M-02",
+              "title": "Spatial Trigonometry (Pythagorean Principles)",
+              "description": "Your child can calculate unknown side lengths or hypotenuse dimensions of right-angled triangles using the Pythagorean Theorem (a² + b² = c²).",
+              "realWorldExample": "Your child checks whether the diagonal shortcut across the 30 m × 40 m field is worth it. The equation a² + b² says the diagonal is exactly 50 m, saving 20. They also verify a \"55-inch\" TV by measuring its sides.",
+              "capstone": false
+            },
+            {
+              "id": "G8.M-03",
+              "code": "M-03",
+              "title": "Quadratic Formulations & Factoring Polynomials",
+              "description": "Your child can factor simple quadratic trinomials (e.g., expanding or simplifying x² + 5x + 6 into (x + 2)(x + 3)) and recognize non-linear parabolic graphs.",
+              "realWorldExample": "Your child factors x² + 5x + 6 into (x + 2)(x + 3) on paper. Then they spot the same parabola in real life, tracing the arc of a thrown ball or a fountain and noting that it is anything but a straight line.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "science",
+          "subjectLabel": "Integrated Sciences (Biology, Chemistry, Physics)",
+          "standards": [
+            {
+              "id": "G8.S-01",
+              "code": "S-01",
+              "title": "Genetics, Mendelian Inheritance & DNA Modeling",
+              "description": "Your child understands how DNA traits are passed down, can define genotype vs. phenotype, and can draw a Punnett square to predict genetic probability outcomes.",
+              "realWorldExample": "Curious why they have blue eyes when both parents are brown-eyed, your child draws the Punnett square, works out both parents must carry a recessive allele, and calculates the 1-in-4 odds they beat.",
+              "capstone": false
+            },
+            {
+              "id": "G8.S-02",
+              "code": "S-02",
+              "title": "Stoichiometry & Balancing Chemical Equations",
+              "description": "Your child applies the Law of Conservation of Mass to balance basic chemical equations on paper, ensuring that the number of reactant atoms matches the product atoms.",
+              "realWorldExample": "Noticing moisture above a gas hob, your child asks where the water came from. They balance CH₄ + 2O₂ → CO₂ + 2H₂O on paper and explain that burning methane makes water vapour as well as carbon dioxide and heat.",
+              "capstone": false
+            },
+            {
+              "id": "G8.S-03",
+              "code": "S-03",
+              "title": "Thermodynamics & Kinetic Energy Equations",
+              "description": "Your child can define and calculate gravitational potential energy and kinetic energy (KE = ½mv²), explaining how heat transfers through conduction, convection, and radiation.",
+              "realWorldExample": "Around a campfire, your child gives the full tour: the metal poker burns by conduction, the rising smoke is convection, and the glow warming your face is radiation. Then they calculate the kinetic energy of their cliff-jump into the lake.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "english",
+          "subjectLabel": "Language & Literature",
+          "standards": [
+            {
+              "id": "G8.E-01",
+              "code": "E-01",
+              "title": "Advanced Analytical Compositions & Literary Device Critiques",
+              "description": "Your child writes structural, multi-page analytical papers that break down how an author utilizes extended allegories or historical commentary to send a deeper message.",
+              "realWorldExample": "Your child writes a multi-page essay on Animal Farm, arguing that the barnyard is a scaffold for the Russian Revolution. They track how each animal maps to a historical figure and what Orwell is really warning about.",
+              "capstone": false
+            },
+            {
+              "id": "G8.E-02",
+              "code": "E-02",
+              "title": "Academic Referencing & Parenthetical Citations",
+              "description": "Your child accurately credits external ideas within their writing using proper parenthetical academic citations (such as MLA, APA, or Harvard formats) alongside a finalized reference page.",
+              "realWorldExample": "Their research paper now reads like the real thing, with claims followed by (Author, Year) citations and a properly formatted reference list that would pass a university's first glance.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "language_acquisition",
+          "subjectLabel": "Language Acquisition (Second Language)",
+          "standards": [
+            {
+              "id": "G8.L-01",
+              "code": "L-01",
+              "title": "Analytical Writing & Conceptual Exposition",
+              "description": "Your child can write full opinion essays, travel logs, or formal reviews in the target language using complex sentence connectors and sub-clauses.",
+              "realWorldExample": "Your child writes a full restaurant review or an opinion piece on whether tourism helps the town, entirely in the target language, complete with \"although,\" \"which meant that,\" and a firm concluding stance.",
+              "capstone": false
+            },
+            {
+              "id": "G8.L-02",
+              "code": "L-02",
+              "title": "Complex Navigation & Emergency Resolution",
+              "description": "Your child can resolve an unexpected issue or real-world emergency smoothly in the target language, such as reporting lost items, describing illness symptoms to a doctor, or rearranging travel logistics.",
+              "realWorldExample": "When the bus is cancelled, your child handles it. They explain the situation at the counter in the target language, rebook for the morning, and ask the pharmacist for the right medicine by describing the symptoms, all without you stepping in.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "citizenship",
+          "subjectLabel": "Societies & Systems (Humanities)",
+          "standards": [
+            {
+              "id": "G8.C-01",
+              "code": "C-01",
+              "title": "The Industrial Revolution & Modern Historical Conflicts",
+              "description": "Your child can map out how industrial specialization transformed human manufacturing and trace the complex, underlying geopolitical causes behind major modern conflicts.",
+              "realWorldExample": "Walking through an old textile mill or industrial museum, your child traces the chain: machines replaced hands, cities swelled, and empires raced for raw materials. They connect those pressures to the causes of the world wars.",
+              "capstone": false
+            },
+            {
+              "id": "G8.C-02",
+              "code": "C-02",
+              "title": "Macro-Economics: Constraints, Value Creation & Stewardship",
+              "description": "Your child understands how inflation metrics work, can trace gross domestic product (GDP) parameters, and can evaluate how currency fluctuations influence international trade markets.",
+              "realWorldExample": "Watching the exchange rate shift during a long stay, your child explains why your money buys more this month, why imported goods just got pricier for locals, and what that means for the shopkeepers you know by name.",
+              "capstone": false
+            }
+          ]
+        },
+        {
+          "domain": "citizenship",
+          "subjectLabel": "The Grade 8 Capstone: Impact Venture Pitch & Defense",
+          "standards": [
+            {
+              "id": "CP-08-01",
+              "code": "CP-08-01",
+              "title": "Root-Cause Analysis & Systems Mapping",
+              "description": "Your child can look at a massive problem (like supply chain waste, water scarcity, or digital misinformation) and map out the entire system, identifying the hidden root causes rather than just treating the surface symptoms.",
+              "realWorldExample": "Bothered by plastic on the beach, your child refuses the easy answer (\"people litter\") and maps the whole system: no refill stations, bottled-water dependence, and no collection infrastructure. They find the root causes worth actually attacking.",
+              "capstone": true
+            },
+            {
+              "id": "CP-08-02",
+              "code": "CP-08-02",
+              "title": "Scalable Operational Modeling & Stakeholder Alignment",
+              "description": "Your child maps out a multi-layered business canvas. They must detail their value proposition, identify key stakeholders, outline a marketing/acquisition strategy, and draft a 3-Year Financial Forecast (including variable costs, fixed scaling assets, and projected revenue streams).",
+              "realWorldExample": "Your child builds the full canvas for their refill-station venture: startup costs, per-unit costs, who the stakeholders are (hostels, shops, the town council), how they'd win customers, and a 3-year forecast that shows the break-even point in month 14.",
+              "capstone": true
+            },
+            {
+              "id": "CP-08-03",
+              "code": "CP-08-03",
+              "title": "The Executive Venture Pitch & Academic Defense",
+              "description": "The grand finale. Your child compiles a high-level executive slide deck or data dashboard to pitch and defend their venture's operational, financial, and sociological integrity.",
+              "realWorldExample": "Your child presents the executive deck to the camera: problem, system map, model, and forecast. Then they stand for live Q&A at the ceremony, defending their numbers to an international audience like a founder at a real pitch night.",
+              "capstone": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "repository": "ivywaters/ivy-waters-open-standards",
+  "visibility": "public",
+  "release": {
+    "version": "2.2.0",
+    "file": "releases/v2.2.0/ivy-waters-international-standards.v2.2.0.json",
+    "sha256": "3070c610972c3525b9618b85b9fc91e01cefe5dd00bd4f70925b1772bbe9ff06",
+    "standards": 138,
+    "guides": 52,
+    "stages": 10
+  },
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "canonicalPublicSource": "https://ivywaters.com/standards",
+  "includes": [
+    "public-safe Standards catalog",
+    "release metadata and checksum",
+    "license and citation guidance",
+    "governance and contribution guidance",
+    "dependency-free release validation",
+    "official publisher mark, outside the CC BY 4.0 grant"
+  ],
+  "excludes": [
+    "learner, family, staff, and school records",
+    "application, auth, billing, database, and deployment source",
+    "internal registrar translation mappings",
+    "external-framework mappings and names",
+    "Ivy Waters brand artwork other than the protected publisher mark",
+    "third-party curriculum text and logos",
+    "draft and superseded catalog proposals",
+    "private operational documentation"
+  ],
+  "requiredChecks": [
+    "catalog counts",
+    "permanent identifier uniqueness",
+    "CC BY 4.0 metadata",
+    "release checksum",
+    "external-framework leak guard",
+    "private field guard",
+    "secret and privacy scan before publication"
+  ]
+}
