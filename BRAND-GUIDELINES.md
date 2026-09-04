@@ -4,7 +4,7 @@ The Creative Commons Attribution 4.0 International license applies to the
 Standards content and documentation in this repository. It does not grant
 trademark rights.
 
-**Ivy Waters International**, **The Ivy Waters International Standards**,
+**Ivy Waters International**, **Ivy Waters International Standards**,
 **IvyTracks**, the Ivy Waters crest, and related trade dress identify Ivy
 Waters International and its official products and publications.
 

@@ -2,7 +2,7 @@
 
 ## Authority
 
-Ivy Waters International publishes official editions of The Ivy Waters
+Ivy Waters International publishes official editions of Ivy Waters
 International Standards. The public repository makes the catalog open under
 CC BY 4.0; openness does not remove the distinction between an official Ivy
 Waters edition and an independent adaptation.
