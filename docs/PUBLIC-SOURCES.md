@@ -28,4 +28,6 @@ family records. It is not the canonical public source and should not replace
 
 The public source excludes internal translation mappings and any external
 framework names, private records, learner data, application code, unpublished
-proposals, and brand artwork.
+proposals, and brand artwork other than the two expressly listed publication
+assets: the protected official publisher lockup and the crest-free reference
+badge.

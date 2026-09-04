@@ -49,7 +49,7 @@ async function releaseFiles() {
 async function validateRelease(file, release, raw) {
   const expectedFilename = `ivy-waters-international-standards.v${release.version}.json`;
   invariant(basename(file) === expectedFilename, `release_filename_mismatch:${file}`);
-  invariant(release.name === "The Ivy Waters International Standards", "release_name_mismatch");
+  invariant(release.name === "Ivy Waters International Standards", "release_name_mismatch");
   invariant(release.publisher === "Ivy Waters International", "release_publisher_mismatch");
   invariant(/^\d+\.\d+\.\d+$/.test(release.version), "release_version_invalid");
   invariant(/^\d{4}-\d{2}-\d{2}$/.test(release.versionDate), "release_date_invalid");

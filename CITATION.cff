@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use these Standards, please cite the framework or the permanent standard identifier you used."
-title: "The Ivy Waters International Standards"
+title: "Ivy Waters International Standards"
 type: dataset
 authors:
   - name: "Ivy Waters International"
@@ -18,7 +18,7 @@ keywords:
   - Grade 8
 preferred-citation:
   type: generic
-  title: "The Ivy Waters International Standards"
+  title: "Ivy Waters International Standards"
   authors:
     - name: "Ivy Waters International"
   year: 2026

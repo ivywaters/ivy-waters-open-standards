@@ -1,6 +1,6 @@
 # Creative Commons Attribution 4.0 International
 
-Except where otherwise noted, The Ivy Waters International Standards catalog
+Except where otherwise noted, the Ivy Waters International Standards catalog
 and the documentation in this repository are licensed under the **Creative
 Commons Attribution 4.0 International Public License** (`CC BY 4.0`).
 

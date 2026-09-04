@@ -4,7 +4,7 @@
 
 Use this notice when reproducing or integrating the unmodified catalog:
 
-> *The Ivy Waters International Standards* v2.2.0, © 2026 Ivy Waters
+> *Ivy Waters International Standards* v2.2.0, © 2026 Ivy Waters
 > International, licensed under CC BY 4.0.
 > https://ivywaters.com/standards
 
@@ -12,7 +12,7 @@ Use this notice when reproducing or integrating the unmodified catalog:
 
 Include the permanent identifier and title:
 
-> Ivy Waters International. “{Title}” ({ID}), in *The Ivy Waters
+> Ivy Waters International. “{Title}” ({ID}), in *Ivy Waters
 > International Standards* v2.2.0 (2026), licensed under CC BY 4.0.
 > https://ivywaters.com/standards/{ID}
 
@@ -22,7 +22,7 @@ CC BY 4.0 requires an indication when licensed material has been modified.
 Use language that makes the source, your changes, and the lack of endorsement
 easy to understand:
 
-> Adapted from *The Ivy Waters International Standards* v2.2.0, © 2026 Ivy
+> Adapted from *Ivy Waters International Standards* v2.2.0, © 2026 Ivy
 > Waters International, licensed under CC BY 4.0. Changes made: {briefly
 > describe changes}. This adaptation is independent and is not endorsed by
 > Ivy Waters International.

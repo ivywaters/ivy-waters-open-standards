@@ -2,7 +2,7 @@
   "name": "ivy-waters-open-standards",
   "version": "2.2.0",
   "private": true,
-  "description": "Validation tools for The Ivy Waters International Standards public repository",
+  "description": "Validation tools for the Ivy Waters International Standards public repository",
   "type": "module",
   "license": "CC-BY-4.0",
   "scripts": {

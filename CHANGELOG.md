@@ -1,6 +1,6 @@
 # Changelog
 
-The Ivy Waters International Standards use the versioning rules in
+Ivy Waters International Standards use the versioning rules in
 [GOVERNANCE.md](GOVERNANCE.md). Newest entries appear first.
 
 ## [2.2.0] - 2026-09-03

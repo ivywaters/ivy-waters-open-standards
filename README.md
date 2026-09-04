@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/ivy-waters-international-standards-lockup.png" width="640" alt="The Ivy Waters International Standards">
+  <img src="assets/ivy-waters-international-standards-lockup.png" width="640" alt="Ivy Waters International Standards">
 </p>
 
-# The Ivy Waters International Standards
+# Ivy Waters International Standards
 
 An open learning framework for ages 3–14, published by Ivy Waters
 International.
@@ -43,12 +43,12 @@ name, crest, and product marks remain protected. See
 
 Preferred whole-framework citation:
 
-> Ivy Waters International. (2026). *The Ivy Waters International Standards*
+> Ivy Waters International. (2026). *Ivy Waters International Standards*
 > (Version 2.2.0). https://ivywaters.com/standards. Licensed under CC BY 4.0.
 
 Preferred standard-level citation:
 
-> Ivy Waters International. (2026). “{Title}” ({ID}), in *The Ivy Waters
+> Ivy Waters International. (2026). “{Title}” ({ID}), in *Ivy Waters
 > International Standards* (Version 2.2.0).
 > https://ivywaters.com/standards/{ID}. Licensed under CC BY 4.0.
 
@@ -60,7 +60,7 @@ Machine-readable citation metadata is available in
 CC BY 4.0 permits adaptations. Make the distinction between the source and
 your changes clear. A useful notice is:
 
-> Adapted from *The Ivy Waters International Standards* v2.2.0, © 2026 Ivy
+> Adapted from *Ivy Waters International Standards* v2.2.0, © 2026 Ivy
 > Waters International, licensed under CC BY 4.0. Changes made: {briefly
 > describe changes}. This adaptation is independent and is not endorsed by
 > Ivy Waters International.
@@ -77,7 +77,7 @@ Standards identifiers. Place the release version and a link to the public
 reader next to it.
 
 <p align="center">
-  <img src="assets/ivy-waters-open-standards-reference-badge.png" width="640" alt="References The Ivy Waters International Standards; independent use; no endorsement implied">
+  <img src="assets/ivy-waters-open-standards-reference-badge.png" width="640" alt="References Ivy Waters International Standards; independent use; no endorsement implied">
 </p>
 
 This is not a certification, compliance, accreditation, or compatibility
